@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun4" /> </p>
 
-- 💛🖤I'm from **Mahinda College**
+- 💛🖤I'm from **Mahinda College,Galle**
 
 - 🌱 I’m currently learning **Computer Science**
 
