@@ -43,7 +43,7 @@
 
 <div align= "center">
 
-
+![snake gif](https://github.com/Hirun4/Hirun4/blob/output/github-snake-dark.svg)
 
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirun4&theme=monokai)
@@ -57,4 +57,4 @@
 [![](https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green)](https://git.io/streak-stats)
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
