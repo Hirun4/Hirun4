@@ -57,6 +57,11 @@
 [![](https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green)](https://git.io/streak-stats)
 </div>
 
-
+## 🏆 GitHub Trophies
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hirun4&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a> 
+</p>
 
 
