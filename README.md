@@ -43,7 +43,7 @@
 
 <div align= "center">
 
-![snake gif](https://github.com/Hirun4/Hirun4/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Hirun4/Hirun4/blob/output/github-snake.svg)
 
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirun4&theme=monokai)
