@@ -42,6 +42,8 @@
 ## Github Activity ✔
 
 <div align= "center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirun4&theme=monokai)
 
