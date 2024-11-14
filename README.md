@@ -42,6 +42,10 @@
 ## Github Activity ✔
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirun4&theme=monokai)
 
+<div align= "center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hirun4&theme=monokai)
+
+</div>
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green)](https://git.io/streak-stats)
