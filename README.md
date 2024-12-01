@@ -67,7 +67,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirun4&theme=dark&hide_border=false" /> 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirun4&theme=dark&hide_border=false" />
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hirun4&theme=tokyonight)
 </td>
 <td width="50%" align="center">
 
