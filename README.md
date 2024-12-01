@@ -49,7 +49,7 @@
 
 
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green)](https://git.io/streak-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hirun4&theme=tokyonight)
 
