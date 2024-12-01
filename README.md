@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hirun+Mihisara+Kariyawasam;From+Galle,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun4" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun4" />
+    <img src="https://img.shields.io/github/followers/Hirun4?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Hirun4?label=Total%20Stars&style=social" alt="GitHub Stars" />
+</p>
+
 
 - 💛🖤I'm from **Mahinda College,Galle**
 
