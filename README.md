@@ -46,7 +46,7 @@
 ![snake gif](https://github.com/Hirun4/Hirun4/blob/output/github-snake.svg)
 
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirun4&theme=tokyonight)
+
 
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green)](https://git.io/streak-stats)
