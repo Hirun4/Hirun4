@@ -62,7 +62,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hirun4&theme=dark&show_icons=true&count_private=true" />
   <br></br>
- ## <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirun4&theme=dark&hide_border=false" /> 
+
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green&hide_border=true" alt="GitHub Streak" /></a>
 <br></br>
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hirun4&theme=tokyonight" />
