@@ -1,17 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hirun+Mihisara+Kariyawasam;From+Galle,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun4" />
-    <img src="https://img.shields.io/github/followers/Hirun4?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Hirun4?label=Total%20Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun-HM" />
+  <img src="https://img.shields.io/github/followers/Hirun-HM?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Hirun-HM?label=Total%20Stars&style=social" alt="GitHub Stars" />
 </p>
-
 
 - 💛🖤I'm from **Mahinda College,Galle**
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at **this Accoount**
+- 👨‍💻 All of my projects are available at **this Account**
 
 - 💬 Ask me about **using Facebook or Instagram**
 
@@ -48,9 +47,7 @@
 
 <div align= "center">
 
-![snake gif](https://github.com/Hirun4/Hirun4/blob/output/github-snake.svg)
-
- 
+![snake gif](https://github.com/Hirun-HM/Hirun-HM/blob/output/github-snake.svg)
 
 ---
 
@@ -60,35 +57,27 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hirun4&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Hirun-HM&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hirun4&theme=soft-green&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hirun-HM&theme=soft-green&hide_border=true" alt="GitHub Streak" /></a>
 <br></br>
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hirun4&theme=tokyonight" />
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hirun-HM&theme=tokyonight" />
 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hirun4&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hirun-HM&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
 </tr>
 </table>
 
 
 
-
-</div>
-
 ## 🏆 GitHub Trophies
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hirun4&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hirun-HM&theme=gruvbox&row=1&column=6&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a> 
 </p>
-
-
-
-
-
